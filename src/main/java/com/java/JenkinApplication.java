@@ -18,7 +18,7 @@ public class JenkinApplication {
 	@PostConstruct
 	public void init()
 	{
-		log.info("inside init");
+		log.info("inside init 2 ");
 	}
 	public static void main(String[] args) {
 		log.info("inside main");
